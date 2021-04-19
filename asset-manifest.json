@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/REACT-work-with-Marvel.api/static/css/main.3575d66d.chunk.css",
-    "main.js": "/REACT-work-with-Marvel.api/static/js/main.116e5d51.chunk.js",
-    "main.js.map": "/REACT-work-with-Marvel.api/static/js/main.116e5d51.chunk.js.map",
+    "main.js": "/REACT-work-with-Marvel.api/static/js/main.c9922938.chunk.js",
+    "main.js.map": "/REACT-work-with-Marvel.api/static/js/main.c9922938.chunk.js.map",
     "runtime-main.js": "/REACT-work-with-Marvel.api/static/js/runtime-main.a181c6a9.js",
     "runtime-main.js.map": "/REACT-work-with-Marvel.api/static/js/runtime-main.a181c6a9.js.map",
-    "static/js/2.db80f566.chunk.js": "/REACT-work-with-Marvel.api/static/js/2.db80f566.chunk.js",
-    "static/js/2.db80f566.chunk.js.map": "/REACT-work-with-Marvel.api/static/js/2.db80f566.chunk.js.map",
+    "static/js/2.d757522f.chunk.js": "/REACT-work-with-Marvel.api/static/js/2.d757522f.chunk.js",
+    "static/js/2.d757522f.chunk.js.map": "/REACT-work-with-Marvel.api/static/js/2.d757522f.chunk.js.map",
     "index.html": "/REACT-work-with-Marvel.api/index.html",
     "static/css/main.3575d66d.chunk.css.map": "/REACT-work-with-Marvel.api/static/css/main.3575d66d.chunk.css.map",
-    "static/js/2.db80f566.chunk.js.LICENSE.txt": "/REACT-work-with-Marvel.api/static/js/2.db80f566.chunk.js.LICENSE.txt",
+    "static/js/2.d757522f.chunk.js.LICENSE.txt": "/REACT-work-with-Marvel.api/static/js/2.d757522f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/REACT-work-with-Marvel.api/static/media/ComicsBg.88007355.jpg",
     "static/media/index.css": "/REACT-work-with-Marvel.api/static/media/chName.ebf10c42.ttf",
     "static/media/leftArrow.003545fb.svg": "/REACT-work-with-Marvel.api/static/media/leftArrow.003545fb.svg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a181c6a9.js",
-    "static/js/2.db80f566.chunk.js",
+    "static/js/2.d757522f.chunk.js",
     "static/css/main.3575d66d.chunk.css",
-    "static/js/main.116e5d51.chunk.js"
+    "static/js/main.c9922938.chunk.js"
   ]
 }
